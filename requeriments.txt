@@ -1,6 +1,0 @@
-streamlit
-streamlit-authenticator
-pandas
-plotly
-openpyxl
-Pillow
